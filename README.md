@@ -3,7 +3,8 @@
 Intel Assembly Language Library based on Masm in Real Address Mode
 
 ## COPYRIGHT
-This library is published under MIT license. You can find more detail in file LICENSE.
+This library is published under __DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE__.
+You can find more detail in file _LICENSE_.
 
 ## USAGE
 To use it, include this file in your assembly program.

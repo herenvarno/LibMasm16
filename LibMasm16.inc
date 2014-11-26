@@ -1,6 +1,6 @@
 ; Standard library for masm assembly language programming
 ; By Edward Yang (herenvarno@mail.com)
-; Copyright MIT License
+; Publication under WTFPL
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; FUNC: clrscr
